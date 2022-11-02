@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(92, 183, 185);
+}
+
+h1 {
+    color: #ffff;
+}
+
+.navbar{
+    background-color:rgb(79, 160, 163) ;
+    padding: 3vh;
+}
+
+#form-costum{
+    margin-top: 5vh;
+}
+
+.btn {
+    background-color:rgb(79, 160, 163) ;
+}
