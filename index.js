@@ -6,6 +6,9 @@ const perguntaModel = require('./database/Perguntas');
 const Pergunta = require('./database/Perguntas');
 const respostaModel = require("./database/Resposta");
 const Resposta = require('./database/Resposta');
+const User = require('./users/User')
+
+const user_controller = require('./users/users_controller')
 
 //database
 connection
